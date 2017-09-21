@@ -1,1 +1,0 @@
-webpackJsonp([0],{lVK7:function(e,n){document.body.appendChild(function(){var e=document.createElement("pre");return e.innerHTML=["Hello webpack!","5 cubed is equal to "].join("\n\n"),e}())}},["lVK7"]);
