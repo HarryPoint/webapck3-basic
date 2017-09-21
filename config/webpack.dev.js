@@ -1,3 +1,5 @@
+process.env.NODE_ENV = 'dev';
+
 const webpack = require('webpack');
 const merge = require('webpack-merge');
 const config = require('./basic');
